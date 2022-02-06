@@ -1,4 +1,4 @@
-#include <lab19.h> 
+#include <lab22.h> 
 
 int main(){
 	srand(time(0));
